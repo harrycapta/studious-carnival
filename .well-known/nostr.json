@@ -1,0 +1,28 @@
+{
+    "names": {
+      "sxsxsx": "d3fecbd8b4856d699beb3a1f6e739f5e338fd56082465da3f80fc44a40f2de7a"
+    },
+    "relays": {
+      "d3fecbd8b4856d699beb3a1f6e739f5e338fd56082465da3f80fc44a40f2de7a": [
+        "wss://nos.lol/",
+        "wss://nostr-pareto.self-determined.de",
+        "wss://nostr.javi.space/",
+        "wss://czas.live",
+        "wss://eden.nostr.land/",
+        "wss://nostr.thank.eu/",
+        "wss://nostr.donky.social",
+        "wss://nostr.gleeze.com",
+        "wss://nostr.satstralia.com",
+        "wss://nostr.nodeofsven.com",
+        "wss://nostr.wine/",
+        "wss://relay.damus.io/",
+        "wss://relay.lnfi.network",
+        "wss://relay.sepiropht.me",
+        "wss://relay.guggero.org/",
+        "wss://relay.primal.net",
+        "wss://relay.nostr.band/",
+        "wss://relay.snort.social/"
+      ]
+    }
+  }
+  
