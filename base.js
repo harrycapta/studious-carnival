@@ -25,5 +25,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
       characters[index2].textContent = temp;
   }
 
-  setInterval(swapRandomCharacters, 1000); // Cambia caratteri ogni secondo
+  setInterval(swapRandomCharacters, 100); // Cambia caratteri ogni secondo
 });
