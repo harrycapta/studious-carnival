@@ -17,4 +17,11 @@ body {
     height: 99vh;
     text-align: center;
     line-height: auto;
+    display: inline-block;
+    font-size: 2em;
+}
+
+.character {
+    display: inline-block;
+    transition: all 0.5s;
 }
