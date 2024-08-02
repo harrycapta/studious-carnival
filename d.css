@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -6,3 +8,13 @@ body {
   #container {
     position: fixed;
   }
+
+  h1 {
+    font-family: "Noto Serif", serif;
+    position: absolute;
+    z-index: 666;
+    width: 99vw;
+    height: 99vh;
+    text-align: center;
+    line-height: 5;
+}
