@@ -16,5 +16,5 @@ body {
     width: 99vw;
     height: 99vh;
     text-align: center;
-    line-height: 5;
+    line-height: auto;
 }
